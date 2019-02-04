@@ -1,2 +1,0 @@
-# fonttester
-Created with CodeSandbox
